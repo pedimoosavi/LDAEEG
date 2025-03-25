@@ -1,0 +1,4 @@
+Please install gensim nltk PyPDF2 pyLDAvis if you haven't already. 
+you just have to paste the code in you IDE and change the folder location to where you saved the folder of all you papers.
+Everything else will run by itself. 
+the code is commented to find what you look for inside the different functions and parameter.
